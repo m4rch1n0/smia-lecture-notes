@@ -37,6 +37,7 @@ Personal lecture notes written in LaTeX during a university degree in SMIA (Scie
 | File | Course | Description |
 | --- | --- | --- |
 | [informatica-per-ml.pdf](third-year/informatica-per-ml.pdf) | Informatica per Machine Learning | Supervised learning, decision trees, linear/logistic regression, ensemble methods |
+| [MatML.pdf](third-year/MatML.pdf) | Matematica per Machine Learning | Statistical learning, Monte Carlo methods, and unsupervised learning |
 | [processi-stocastici.pdf](third-year/processi-stocastici.pdf) | Processi Stocastici | Markov chains, stationary distributions, asymptotic behavior, generating functions |
 
 ---
